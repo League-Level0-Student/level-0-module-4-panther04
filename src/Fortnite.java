@@ -14,6 +14,7 @@ public static void main(String[] args) {
 		score=score+1;
 	}
 	else {
+		
 		JOptionPane.showMessageDialog(null,"You need to try again and WRONG!!!");
 		}
 	
