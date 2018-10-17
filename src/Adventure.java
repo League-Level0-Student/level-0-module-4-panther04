@@ -16,7 +16,7 @@ public class Adventure {
 			}
 			else {
 				JOptionPane.showMessageDialog(null,"you build a boat and hit the sharks with the extra wood you were yousing \n for the boat");
-			} 
+			}  
 				
 			
 			
